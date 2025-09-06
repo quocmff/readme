@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/quangquoc666/gjw-webapp">
-    <img src="public/logo-with-text.webp" alt="Logo" width="320" height="80">
+    <img src="logo-with-text.webp" alt="Logo" width="320" height="80">
   </a>
 
 <h3 align="center">Green Jade World - Backend API</h3>
